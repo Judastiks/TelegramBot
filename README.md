@@ -6,6 +6,7 @@ Used Api - https://docs.mhw-db.com/
 
 Explanation:
 
-**![image](https://user-images.githubusercontent.com/77198298/136068915-6dd7b5c4-9eec-4482-ab8c-ef84f5ca9543.png)**
+
+![image](https://user-images.githubusercontent.com/77198298/136069272-5f46e834-c4a1-40e6-8381-26e46b3074bc.png)
 
 
